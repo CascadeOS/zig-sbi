@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// SPDX-FileCopyrightText: 2025 Lee Cannon <leecannon@leecannon.xyz>
+// SPDX-FileCopyrightText: Lee Cannon <leecannon@leecannon.xyz>
 
 /// The base extension is designed to be as small as possible.
 ///
