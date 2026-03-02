@@ -3041,7 +3041,7 @@ const ErrorCode = enum(isize) {
 };
 
 comptime {
-    std.testing.refAllDeclsRecursive(@This());
+    std.testing.refAllDecls(@This());
 }
 
 const is_64: bool = switch (builtin.cpu.arch) {

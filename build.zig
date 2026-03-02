@@ -34,6 +34,6 @@ pub fn build(b: *std.Build) void {
     }
 }
 
-const targets: []const @Type(.enum_literal) = &.{ .riscv64, .riscv32 };
+const targets: []const @EnumLiteral() = &.{ .riscv64, .riscv32 };
 
 const std = @import("std");

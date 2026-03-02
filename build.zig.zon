@@ -4,9 +4,9 @@
 .{
     .name = .sbi,
 
-    .version = "6.0.1",
+    .version = "7.0.0",
 
-    .minimum_zig_version = "0.15.1",
+    .minimum_zig_version = "0.16.0-dev.2682+02142a54d",
 
     .paths = .{""},
 
