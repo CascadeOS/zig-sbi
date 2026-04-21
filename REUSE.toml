@@ -1,13 +1,13 @@
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: Lee Cannon <leecannon@leecannon.xyz>
+# SPDX-FileCopyrightText: CascadeOS Contributors
 
 version = 1
 SPDX-PackageName = "zig-sbi"
-SPDX-PackageSupplier = "Lee Cannon <leecannon@leecannon.xyz>"
-SPDX-PackageDownloadLocation = "https://github.com/leecannon/zig-sbi"
+SPDX-PackageSupplier = "CascadeOS Contributors"
+SPDX-PackageDownloadLocation = "https://github.com/CascadeOS/zig-sbi"
 
 [[annotations]]
 path = "**.md"
 precedence = "aggregate"
 SPDX-License-Identifier = "CC0-1.0"
-SPDX-FileCopyrightText = "Lee Cannon <leecannon@leecannon.xyz>"
+SPDX-FileCopyrightText = "CascadeOS Contributors"

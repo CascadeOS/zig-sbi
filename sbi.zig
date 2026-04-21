@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: MIT
-// SPDX-FileCopyrightText: Lee Cannon <leecannon@leecannon.xyz>
+// SPDX-License-Identifier: BSD-3-Clause
+// SPDX-FileCopyrightText: CascadeOS Contributors
 
 /// The base extension is designed to be as small as possible.
 ///
